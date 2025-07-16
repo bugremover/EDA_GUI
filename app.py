@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_squared_error
 
-st.set_page_config(page_title="📊 Visual EDA + ML", layout="wide")
+st.set_page_config(page_title="Visual EDA", layout="wide")
 st.title("📊 Basic Machine Learning App")
 
 # Upload file
